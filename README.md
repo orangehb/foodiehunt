@@ -1,4 +1,4 @@
-# SC foodiehunt 
+# foodiehunt 
 # Let go eat! 
 
 | Name of resturant              | Adress                               | Stars out 5 | comments                                 |
